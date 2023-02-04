@@ -216,3 +216,15 @@ section .container {
     transform: translateY(0);
   }
 }
+
+/* BELOW 540PX */
+@media (max-width: 33.75em) {
+  main {
+    padding: 0 1.2rem;
+  }
+
+  header,
+  section {
+    padding: 2.4rem;
+  }
+}

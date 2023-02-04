@@ -8,6 +8,8 @@
 - Flexbox
 - Custom properties
 - @media
+- ::after
+- @keyframes
 
 ### Links 🌐
 
